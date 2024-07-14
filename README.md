@@ -1,4 +1,4 @@
-#### Hi there 👋 , it's Anton
+# Hi there 👋 , it's Anton
 
 **Backend .Net / Software Engineer**
 ---
